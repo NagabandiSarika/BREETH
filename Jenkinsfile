@@ -1,7 +1,7 @@
 pipeline {
     agent any
      environment {
-        registry = "024579634030.dkr.ecr.us-east-1.amazonaws.com/breeth"
+        registry = "024579634030.dkr.ecr.ap-south-1.amazonaws.com/breeth"
     }
    
     stages {
